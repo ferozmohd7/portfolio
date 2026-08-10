@@ -19,7 +19,6 @@ function App() {
 
       {/* Main Portfolio */}
       <main>
-
         {/* Hero */}
         <Hero />
 
@@ -40,7 +39,6 @@ function App() {
 
         {/* Contact */}
         <Contact />
-
       </main>
     </>
   );
