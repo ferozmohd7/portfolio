@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
@@ -39,6 +40,7 @@ function App() {
 
         {/* Contact */}
         <Contact />
+        <Footer />
       </main>
     </>
   );
