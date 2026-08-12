@@ -8,14 +8,14 @@ function Education() {
     {
       number: "01",
       degree: "B.Tech – Computer Science Engineering",
-      college: "Abdul Kalam Institute of Technology and Science",
+      college: "Jyothishmathi Institute of Technology and Sciences",
       year: "2023 – 2026",
       score: "CGPA: 7.48",
     },
     {
       number: "02",
       degree: "Diploma – Mining Engineering",
-      college: "Diploma",
+      college: "Abdul Kalam Institute Of Technology and Sciences",
       year: "Completed: 2022",
       score: "CGPA: 5.82",
     },
